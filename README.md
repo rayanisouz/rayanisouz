@@ -18,7 +18,13 @@
     <img align="center" alt="JavaScript" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E />
 </div><br/>
 
+
 Sempre busquei novos desafios e estar em constante aperfeiçoamento profissional, prezo muito pela qualidade, conhecimento e relações interpessoais. Estou estudando Análise e desenvolvimento de sistemas pela Unimar, também tenho focado em cursos complementares no Alura para me aperfeiçoar na área back-end.
+
+ <img align="center" alt"GIF" src=[https://cdn.discordapp.com/attachments/908504502473207904/1088241734061924372/Design_sem_nome.gif](https://www.canva.com/design/DAFd990LdjY/dlu5EpnH732WhDgc4WOs4Q/view?utm_content=DAFd990LdjY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) />
 
 ## Meu perfil no alura:
 - [Rayani Souza](https://cursos.alura.com.br/user/rayani-souzan)
+<div style="display: incline_block"><br/>
+    <img align="right" alt"GIF" src=https://cdn.discordapp.com/attachments/908504502473207904/1088246879931863040/b.png />
+</div><br/>

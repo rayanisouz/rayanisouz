@@ -21,7 +21,7 @@
 
 Sempre busquei novos desafios e estar em constante aperfeiçoamento profissional, prezo muito pela qualidade, conhecimento e relações interpessoais. Estou estudando Análise e desenvolvimento de sistemas pela Unimar, também tenho focado em cursos complementares no Alura para me aperfeiçoar na área back-end.
 
-## Meu perfil no alura:
+## Meu perfil Alura:
 - [Rayani Souza](https://cursos.alura.com.br/user/rayani-souzan)
 <div style="display: incline_block"><br/>
     <img align="right" alt"GIF" src=https://cdn.discordapp.com/attachments/908504502473207904/1088246879931863040/b.png />

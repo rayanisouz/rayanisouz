@@ -30,8 +30,8 @@ Sempre busquei novos desafios e estar em constante aperfeiçoamento profissional
 </div><br/>
 
 
-## Meu perfil Alura:
-- [Rayani Souza](https://cursos.alura.com.br/user/rayani-souzan)
+## VitrineDev:
+- [Rayani Souza](https://cursos.alura.com.br/vitrinedev/rayani-souzan)
 <div style="display: incline_block"><br/>
     <img align="right" alt"GIF" src=https://cdn.discordapp.com/attachments/908504502473207904/1088246879931863040/b.png />
 </div><br/>

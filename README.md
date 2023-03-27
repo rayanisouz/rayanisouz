@@ -6,6 +6,7 @@ Sempre busquei novos desafios e estar em constante aperfeiçoamento profissional
 ## Redes sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayani-souza-77a1ba212/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_nomani/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6HwRwNdK_KpgOSw6pyNUSA)
 
 ![Rayani GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanisouz&show_icons=true&theme=dracula)
 

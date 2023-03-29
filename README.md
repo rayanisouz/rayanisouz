@@ -24,13 +24,6 @@ Sempre busquei novos desafios e estar em constante aperfeiçoamento profissional
     <img align="center" alt+"React" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
 </div><br/>
 
-## Ferramenta que utilizo
-<div style="display: incline_block"><br/>
-    <img align="center" alt="VisualCodeStudio" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
-    <img align="center" alt="OutSystems" src=https://cdn.discordapp.com/attachments/908504502473207904/1088993756591706122/OutSystems_Logo1.jpg />
-</div><br/>
-
-
 ## VitrineDev:
 - [Rayani Souza](https://cursos.alura.com.br/vitrinedev/rayani-souzan)
 <div style="display: incline_block"><br/>

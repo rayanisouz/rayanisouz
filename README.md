@@ -1,7 +1,11 @@
 ### Olá! Sou a Rayani 😊
 
 ## Sobre mim    
-Sempre busquei novos desafios e estar em constante aperfeiçoamento profissional, prezo muito pela qualidade, conhecimento e relações interpessoais. Estou estudando Análise e desenvolvimento de sistemas pela Unimar, também tenho focado em cursos complementares no Alura para me aperfeiçoar na área back-end.
+Sempre busquei novos desafios e estar em constante aperfeiçoamento profissional, prezo muito pela qualidade, conhecimento e relações interpessoais. Estou estudando Análise e desenvolvimento de sistemas pela Unimar, também tenho focado em cursos complementares no Alura para me aperfeiçoar na área back-end e front-end.
+
+<div style="display: incline_block"><br/>
+<img align="right" alt"GIF" src=https://cdn.discordapp.com/attachments/908504502473207904/1088246879931863040/b.png />
+</div><br/>
 
 ## Redes sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayani-souza-77a1ba212/)
@@ -24,8 +28,6 @@ Sempre busquei novos desafios e estar em constante aperfeiçoamento profissional
     <img align="center" alt+"React" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
 </div><br/>
 
-## VitrineDev:
+## VitrineDev Certificados:
 - [Rayani Souza](https://cursos.alura.com.br/vitrinedev/rayani-souzan)
-<div style="display: incline_block"><br/>
-    <img align="right" alt"GIF" src=https://cdn.discordapp.com/attachments/908504502473207904/1088246879931863040/b.png />
-</div><br/>
+   

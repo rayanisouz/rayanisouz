@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi, my name is Rayani! 😊 </h1> 
+# <h1 align="center"> Hi, I am Rayani! 😊 </h1> 
 
 <div align="center"><img src="https://64.media.tumblr.com/ed8745b30c1a1d7eb1935017c94d8dbf/tumblr_n9i8foLj941qc2xm1o1_500.gifv" width="668"/></div>
 
